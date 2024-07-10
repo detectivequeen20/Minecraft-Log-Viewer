@@ -87,3 +87,26 @@ You will open the Language Drop Down menu and at the very bottom Select what you
 If everything was Correct, your Minecraft Log File will look something like this:
 
 ![Example Image](https://i.imgur.com/yPcjj7c.png)
+
+
+## ---------------------------------------------------
+
+# How to Download *Minecraft Console Log.xml*!
+
+For those of you whom have never had the opportunity to use github before, here is how you download literaly anything on github.
+
+![This Gubhub Page Image](https://i.imgur.com/O7gyKMd.png)
+
+## Step 1 - Go to the releases part of this Github page
+
+![releases](https://i.imgur.com/n40XmWH.png)
+
+## Step 2 - Press the **Latest** version
+
+![latest version](https://i.imgur.com/epiJ9dJ.png)
+
+## Step 3 - Press the first link (most times), in this case it is the first link.
+
+![first link](https://i.imgur.com/kHWfprV.png)
+
+And save it to your computer. Remember where you saved it, because in this tutorial above me, you have to import that *.xml* file into Notepad++.
