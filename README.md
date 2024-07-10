@@ -21,7 +21,17 @@ With the Minecraft Log Viewer (XML File), your Minecraft Modpack logs file will 
 
 ![Example Image of openning a Minecraft Modpack logs file inside of Notepad++ and enabling the Minecraft Log Viewer under User Defined Language](https://i.imgur.com/DKJXUIN.png)
 
+## ---------------------------------------------------
 
+This Log Viewer XML File (currently) ONLY works in Notepad++.
+
+Download [Notepad++ here](https://i.imgur.com/QpMHvev.png)
+
+Select the Version at the top right under the Header **Downloads**
+
+![downloads](https://i.imgur.com/QpMHvev.png)
+
+## ---------------------------------------------------
 
 ## How to instal and Set up the Minecraft Log Viewer inside your Notepad++!!
 
